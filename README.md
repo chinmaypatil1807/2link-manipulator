@@ -2,3 +2,9 @@
 2link manipulator control with computed torque control.
 <br>
 author-Chinmayagouda Patil
+edit
+
+sjvsdjf
+df
+sdf
+df
